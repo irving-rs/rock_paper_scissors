@@ -1,4 +1,4 @@
-# rock-paper-scissors.py
+# rock-paper-scissors
 The classical Game: Rock-Paper-Scissors.
 
 Programmed in Python 3.8.5, uses CLI. 
